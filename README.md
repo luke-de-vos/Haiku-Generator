@@ -4,4 +4,4 @@ A haiku is "a Japanese poem of seventeen syllables, in three lines of five, seve
 
 generateGaiku.py generates haiku with word trigrams and markov chains. 
 
-However, the generation algorithm is sensitive to special characters placed in the training set such that logic and grammar rules are respected more often than is typical in this approach to language generation.
+The generation algorithm is sensitive to special characters placed in the training set such that logic and grammar rules are respected more often than is typical in this approach to language generation.
