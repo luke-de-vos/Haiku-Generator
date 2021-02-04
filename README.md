@@ -8,6 +8,10 @@ Haiku are generated on a word by word basis. The likelihood of a word's generati
 
 In the training set, '+' and '~' are placed at before the beginnings and ends of ideas respectively. This was performed both manually and with the contained fitScript.py. The generation algorithm takes these symbols into account such that line 1 is one whole idea, then lines 2 and 3 form a second idea. Sensitivity to these characters significantly decreases the logical and grammatical inconsistency typical in n-gram based language generation.
 
+## Usage
+
+```python3 generateHaiku.py```
+
 ## Example Generations
 
 rain on the screen door  
